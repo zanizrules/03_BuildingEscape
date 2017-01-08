@@ -1,0 +1,3 @@
+[0108/151507:WARNING:raw_channel.cc(208)] Shutting down RawChannel with write buffer nonempty
+[0108/151515:WARNING:raw_channel.cc(208)] Shutting down RawChannel with write buffer nonempty
+[0108/151520:WARNING:raw_channel.cc(208)] Shutting down RawChannel with write buffer nonempty
